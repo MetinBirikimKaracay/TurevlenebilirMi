@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619985259 source:c:\users\karslı\desktop\c kodları\github\turevlenebilirmi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
